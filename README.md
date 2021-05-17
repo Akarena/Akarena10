@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Akarena10
+- 👀 I’m interested in GIS and Remote Sensing
+- 🌱 I’m currently in my final year of GIS engineering
+- 💞️ I’m looking to collaborate on interesting and ambitious open source software
+- 📫 How to reach me malak.irja@etu.uae.ac.ma
